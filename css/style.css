@@ -489,7 +489,6 @@ h2{
 /*Footer*/
 .finalsection{
   font-size:12px;
-  word-wrap: wrap;
   text-align: center;
 }
 
@@ -589,7 +588,6 @@ header nav{
 }
 .tab::after{
   font-size: 13px;
-  word-wrap: wrap;
   text-align: center;
 }
 .tabsubcontent{
